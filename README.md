@@ -3,8 +3,8 @@
 Todo list ini berfungsi untuk memanajemen tugas apa yang harus dikerjakan dan memantau tugas tersebut apakah sudah dikerjakan atau belum dengan menceklisnya 
 
 ## These Screenshoots 🚀  
-![App Screenshot](https://github.com/hudaputrasantosa/todolist-with-mevn/tree/master/public/images/dashboard.png)  
-![App Screenshot](https://github.com/hudaputrasantosa/todolist-with-mevn/tree/master/public/images/edit.png)  
+![App Screenshot](https://github.com/hudaputrasantosa/todolist-with-mevn/blob/master/public/images/dashboard.png) 
+![App Screenshot](https://github.com/hudaputrasantosa/todolist-with-mevn/blob/master/public/images/edit.png)  
 
 ## Run Locally  
 
